@@ -1,6 +1,23 @@
+This program and the accompanying materials are
+made available under the terms of the Eclipse Public License v2.0 which accompanies
+this distribution, and is available at https://www.eclipse.org/legal/epl-v20.html
+
+SPDX-License-Identifier: EPL-2.0
+
+Copyright Contributors to the Zowe Project.
+
 # Default to EBCDIC unless otherwise specified
 *                working-tree-encoding=ibm-1047 git-encoding=iso8859-1
 
 # The git attributes and ignore files MUST be ASCII
 *.gitattributes  working-tree-encoding=iso8859-1 git-encoding=iso8859-1
 *.gitignore      working-tree-encoding=iso8859-1 git-encoding=iso8859-1
+
+
+This program and the accompanying materials are
+made available under the terms of the Eclipse Public License v2.0 which accompanies
+this distribution, and is available at https://www.eclipse.org/legal/epl-v20.html
+
+SPDX-License-Identifier: EPL-2.0
+
+Copyright Contributors to the Zowe Project.
