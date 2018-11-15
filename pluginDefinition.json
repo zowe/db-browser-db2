@@ -1,0 +1,16 @@
+{
+  "identifier": "org.zowe.dbbrowser.db2",
+  "apiVersion": "1.0.0",
+  "pluginVersion": "1.0.0",
+  "pluginType": "application",
+  "dataServices": [
+    {
+      "type": "router",
+      "name": "data",
+      "serviceLookupMethod": "external",
+      "fileName": "index.js",
+      "routerFactory": "DB2Router",
+      "dependenciesIncluded": true
+    }
+  ]
+}
