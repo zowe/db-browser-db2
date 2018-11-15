@@ -1,5 +1,3 @@
-# © 2014-2018 Rocket Software, Inc. or its affiliates. All Rights Reserved.
-# ROCKET SOFTWARE, INC. CONFIDENTIAL
 # Editor configuration, see http://editorconfig.org
 root = true
 
@@ -14,5 +12,3 @@ trim_trailing_whitespace = true
 max_line_length = off
 trim_trailing_whitespace = false
 
-# © 2014-2018 Rocket Software, Inc. or its affiliates. All Rights Reserved.
-# ROCKET SOFTWARE, INC. CONFIDENTIAL
