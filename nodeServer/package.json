@@ -5,7 +5,7 @@
   "scripts": {
     "build": "tsc && npm run-script copy",
     "buildonly": "tsc",
-    "copy": "echo d | xcopy /s \"node_modules\" \"..\\lib\\node_modules\"",
+    "copy": "echo d | xcopy /s /u /y \"node_modules\" \"..\\lib\\node_modules\"",
     "start": "tsc --watch"
   },
   "dependencies": {
