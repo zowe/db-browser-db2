@@ -5,7 +5,7 @@
   "scripts": {
     "build": "tsc && npm run-script copy",
     "buildonly": "tsc",
-    "copy": "ant -f ./../build/build.xml build",
+    "copy": "ant -f ./../../zlux-build/build_ng2.xml copynode",
     "start": "tsc --watch"
   },
   "dependencies": {
