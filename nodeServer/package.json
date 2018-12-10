@@ -5,7 +5,7 @@
   "scripts": {
     "build": "tsc && npm run-script copy",
     "buildonly": "tsc",
-    "copy": "echo d | xcopy /s \"node_modules\" \"..\\lib\\node_modules\"",
+    "copy": "ant -f ./../../zlux-build/copy_node.xml copynode",
     "start": "tsc --watch"
   },
   "dependencies": {
