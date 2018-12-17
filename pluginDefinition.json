@@ -10,7 +10,8 @@
       "serviceLookupMethod": "external",
       "fileName": "index.js",
       "routerFactory": "DB2Router",
-      "dependenciesIncluded": true
+      "dependenciesIncluded": true,
+      "version": "1.0.0"
     }
   ]
 }
